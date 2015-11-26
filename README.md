@@ -8,5 +8,9 @@ There are 3 server files running on different ports
 
 There is 1 client which sends 10 different object to these servers.
 
+How to run ?
+1. Run all the servers first.
+2. Run the client.
+3. Test the REST endpoint using any REST Client.
 
 
